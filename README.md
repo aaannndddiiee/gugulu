@@ -40,6 +40,7 @@ En este proyecto me enfoque en construir la clonacion de la interfaz. Contiene l
 - **Header:** seccón que involucra la foto de mi perfil, iconos y un menu con enlaces excternos.
 - **Main:** seccion del contendor para los elementos centarles de la pagina: logo, barra de busqueda, iconos y botones.
 - **Footer:** seccion que incluye enlaces externos al final de la pagina.
+
 Las tecnologias que utilice son:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for.the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
